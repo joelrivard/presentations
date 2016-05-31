@@ -5,6 +5,7 @@
 by Joel Rivard
 
 ---
+##Outline
 
  - Introduction to the task force
  - Overview of the guidelines
