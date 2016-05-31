@@ -15,7 +15,10 @@ by Joel Rivard
 #A bit of background
 ##How did this Start?
 
-![Scanning a Map](http://joelrivard.github.io/presentations/Scanner.jpg "Scanning Map")
+---
+
+![Scanning a Map](http://joelrivard.github.io/presentations/scanner.jpg "Scanning Map")
+<br>
 ![Many Questions](http://joelrivard.github.io/presentations/hands-up.jpg "hands-up")
 ---
 
@@ -40,7 +43,7 @@ The task force started its work in January 2015
 Create an open access reference document that would guide and help users through various sections of the Copyright Act that directly impact cartographic materials. The reference guide also links to other resources that helps in the interpretation of copyright issues for cartographic materials.
 
 ---
-
+## Workflow
 1. Included literature review about copyright for cartographic materials or similar documents
 2. Discussion with copyright librarians from our own institutions
 3. ACMLA executive
