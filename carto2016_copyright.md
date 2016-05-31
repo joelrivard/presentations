@@ -1,39 +1,41 @@
 <div align="Center">
-##Update and discussion on Copyright for Cartographic Materials documents
+## Update and discussion on Copyright for Cartographic Materials documents
 <br>
 
 by Joel Rivard
 
 ---
 
- - Introduction to the Task force
+ - Introduction to the task force
  - Overview of the guidelines
  - Feedback and discussion
 
 ---
 
-#A bit of background.
+#A bit of background
 ##How did this Start?
-Scanner.jpg
-hands-up.jpg
+
+![Scanning a Map](http://joelrivard.github.io/presentations/Scanner.jpg "Scanning Map")
+![Many Questions](http://joelrivard.github.io/presentations/hands-up.jpg "hands-up")
 ---
 
-email.jpg
-participants.jpg
+![I sent an email](http://joelrivard.github.io/presentations/email.jpg "email")
+![I received responses from participants](http://joelrivard.github.io/presentations/participants.jpg "participants")
 
 ## The Participants
 - Susan Mckee - University of Calgary
 - Virginia Pow - University of Alberta
 - Joel Rivard - Carleton University
-<br>
 
-The Taskforce started its work in January 2015
+<br><br>
+
+The task force started its work in January 2015
 
 ---
 
 ## The Goal
 
-copyright.jpg + topographicmap.jpg
+![Copyright](http://joelrivard.github.io/presentations/copyright.jpg "copyright") + ![Maps](http://joelrivard.github.io/presentations/topographicmap.jpg "Maps")
 
 Create an open access reference document that would guide and help users through various sections of the Copyright Act that directly impact cartographic materials. The reference guide also links to other resources that helps in the interpretation of copyright issues for cartographic materials.
 
@@ -49,10 +51,10 @@ Create an open access reference document that would guide and help users through
 1. Decided to create a decision tree style
 2. The guide would provide guidelines and not be outright definitive
 3. Looked at:
-  a. Cartographic materials as part of the public domain
-  b. Cartographic materials and licenses
-  c. Cartographic materials and fair dealings
-  d. Cartographic materials and other copying exceptions
+    - Cartographic materials as part of the public domain
+    - Cartographic materials and licenses
+    - Cartographic materials and fair dealings
+    - Cartographic materials and other copying exceptions
 ---
 
 
