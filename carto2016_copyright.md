@@ -83,7 +83,7 @@ Joel Rivard
 
 joel.rivard@carleton.ca
 ---
-# Images Source
+## Images Source
 
 copyright.jpg
 https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/2000px-Copyright.svg.png
