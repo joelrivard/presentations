@@ -3,6 +3,7 @@
 <br>
 
 by Joel Rivard
+
 joel.rivard@carleton.ca
 
 ---
@@ -22,6 +23,7 @@ joel.rivard@carleton.ca
 ![Scanning a Map](http://joelrivard.github.io/presentations/scanner.jpg "Scanning Map")
 <br><br>
 ?????????????????????????????????????
+<br>
 ![Many Questions](http://joelrivard.github.io/presentations/hands-up.jpg "hands-up")
 ---
 ![I sent an email](http://joelrivard.github.io/presentations/email.jpg "email")
@@ -66,7 +68,9 @@ Create an open access reference document that would guide and help users through
 ## A look at the draft guide
 
 http://www.acmla-acacc.ca/dev/carto_copy.php
+
 ![Instant preview](http://joelrivard.github.io/presentations/Copyright_infographic.jpg)
+
 http://joelrivard.github.io/presentations/CartographicGuidelines.pdf
 
 ---
@@ -74,5 +78,6 @@ http://joelrivard.github.io/presentations/CartographicGuidelines.pdf
 #Feedback and discussion
 
 Joel Rivard
+
 joel.rivard@carleton.ca
 ---
