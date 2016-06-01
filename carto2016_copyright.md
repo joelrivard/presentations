@@ -23,7 +23,7 @@ joel.rivard@carleton.ca
 ![Scanning a Map](http://joelrivard.github.io/presentations/scanner.jpg "Scanning Map")
 <br><br>
 ?????????????????????????????????????
-<br>
+<br><br>
 ![Many Questions](http://joelrivard.github.io/presentations/hands-up.jpg "hands-up")
 ---
 ![I sent an email](http://joelrivard.github.io/presentations/email.jpg "email")
@@ -76,6 +76,8 @@ http://joelrivard.github.io/presentations/CartographicGuidelines.pdf
 ---
 
 #Feedback and discussion
+
+http://bit.ly/1O5p6tH
 
 Joel Rivard
 
