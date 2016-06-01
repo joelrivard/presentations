@@ -26,7 +26,7 @@ by Joel Rivard
 ![I sent an email](http://joelrivard.github.io/presentations/email.jpg "email")
 ![I received responses from participants](http://joelrivard.github.io/presentations/participants.jpg "participants")
 
-## The Participants
+## Task force members
 - Susan Mckee - University of Calgary
 - Virginia Pow - University of Alberta
 - Joel Rivard - Carleton University
@@ -50,7 +50,7 @@ Create an open access reference document that would guide and help users through
 3. ACMLA executive
 
 ---
-##Division of work
+## Working on the draft document
 
 1. Decided to create a decision tree style
 2. The guide would provide guidelines and not be outright definitive
@@ -60,6 +60,17 @@ Create an open access reference document that would guide and help users through
     - Cartographic materials and fair dealings
     - Cartographic materials and other copying exceptions
 ---
+
+A look at the draft guide
+
+![Instant preview](http://www.acmla-acacc.ca/dev/images/Copyright_infographic_2015.jpg)
+
+http://www.acmla-acacc.ca/dev/carto_copy.php
+
+---
+
+Discussion and Comments
+
 
 
 
