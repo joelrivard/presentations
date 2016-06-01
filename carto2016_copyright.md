@@ -85,22 +85,12 @@ joel.rivard@carleton.ca
 ---
 ## Images Source
 
-copyright.jpg
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/2000px-Copyright.svg.png
+- copyright.jpg: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/2000px-Copyright.svg.png
 <br>
-hands-up.jpg
-
-http://pts4chg.ca/wp-content/uploads/2016/04/Call-for-participants.jpg
+- hands-up.jpg: http://pts4chg.ca/wp-content/uploads/2016/04/Call-for-participants.jpg
 <br>
-email.jpg
-
-https://www.jisc.ac.uk/sites/default/files/call-for-participants_0.jpg
+- email.jpg: https://www.jisc.ac.uk/sites/default/files/call-for-participants_0.jpg
 <br>
-participants.jpg
-
-http://ss-glina.skole.hr/upload/ss-glina/images/newsimg/1011/Image/4i9rXGxiE.jpeg
+- participants.jpg: http://ss-glina.skole.hr/upload/ss-glina/images/newsimg/1011/Image/4i9rXGxiE.jpeg
 <br>
-scanner.jpg
-
-my own picture
+- scanner.jpg:my own picture
