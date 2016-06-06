@@ -20,13 +20,13 @@ joel.rivard@carleton.ca
 
 ---
 
-![Scanning a Map](http://joelrivard.github.io/presentations/scanner.jpg "Scanning Map")
+![Scanning a Map](http://joelrivard.github.io/presentations/images/scanner.jpg "Scanning Map")
 <br><br>
 ?????????????????????????????????????
 <br><br>
-![Many Questions](http://joelrivard.github.io/presentations/hands-up.jpg "hands-up")
+![Many Questions](http://joelrivard.github.io/presentations/images/hands-up.jpg "hands-up")
 ---
-![I sent an email](http://joelrivard.github.io/presentations/email.jpg "email")
+![I sent an email](http://joelrivard.github.io/presentations/images/email.jpg "email")
 
 ## Task force members
 
@@ -34,7 +34,7 @@ joel.rivard@carleton.ca
 - Virginia Pow - University of Alberta
 - Joel Rivard - Carleton University
 
-![I received responses from participants](http://joelrivard.github.io/presentations/participants.jpg "participants")
+![I received responses from participants](http://joelrivard.github.io/presentations/images/participants.jpg "participants")
 <br><br>
 
 The task force started its work in January 2015
@@ -43,7 +43,7 @@ The task force started its work in January 2015
 
 ## The Goal
 
-![Copyright](http://joelrivard.github.io/presentations/copyright.jpg "copyright")     **+**     ![Maps](http://joelrivard.github.io/presentations/topographicmap.jpg "Maps")
+![Copyright](http://joelrivard.github.io/presentations/images/copyright.jpg "copyright")     **+**     ![Maps](http://joelrivard.github.io/presentations/images/topographicmap.jpg "Maps")
 
 Create an open access reference document that would guide and help users through various sections of the Copyright Act that directly impact cartographic materials. The reference guide also links to other resources that helps in the interpretation of copyright issues for cartographic materials.
 
@@ -69,7 +69,7 @@ Create an open access reference document that would guide and help users through
 
 http://www.acmla-acacc.ca/dev/carto_copy.php
 
-![Instant preview](http://joelrivard.github.io/presentations/Copyright_infographic.jpg)
+![Instant preview](http://joelrivard.github.io/presentations/images/Copyright_infographic.jpg)
 
 http://joelrivard.github.io/presentations/CartographicGuidelines.pdf
 
@@ -87,10 +87,10 @@ joel.rivard@carleton.ca
 
 - copyright.jpg: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/2000px-Copyright.svg.png
 <br>
-- hands-up.jpg: http://pts4chg.ca/wp-content/uploads/2016/04/Call-for-participants.jpg
+- hands-up.jpg: https://www.flickr.com/photos/mic_n_2_sugars/564570276
 <br>
-- email.jpg: https://www.jisc.ac.uk/sites/default/files/call-for-participants_0.jpg
+- email.jpg: https://pixabay.com/static/uploads/photo/2014/04/02/10/13/computer-303129_960_720.png
 <br>
-- participants.jpg: http://ss-glina.skole.hr/upload/ss-glina/images/newsimg/1011/Image/4i9rXGxiE.jpeg
+- participants.jpg: http://www.publicdomainpictures.net/view-image.php?image=124609&picture=funky-kids
 <br>
 - scanner.jpg:my own picture
