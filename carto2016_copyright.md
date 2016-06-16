@@ -47,6 +47,7 @@ The task force started its work in January 2015
 
 Create an open access reference document that would guide and help users through various sections of the Copyright Act that directly impact cartographic materials. The reference guide also links to other resources that helps in the interpretation of copyright issues for cartographic materials.
 
+https://drive.google.com/open?id=0B_A2r-bsMK4bTFNpZTZ3cGtmdms
 ---
 ## Workflow
 1. Included literature review about copyright for cartographic materials or similar documents
