@@ -27,7 +27,7 @@ joel.rivard@carleton.ca
 ![Many Questions](http://joelrivard.github.io/presentations/images/hands-up.jpg "hands-up")
 ---
 ![I sent an email](http://joelrivard.github.io/presentations/images/email.jpg "email")
-
+---
 ## Task force members
 
 - Susan Mckee - University of Calgary
